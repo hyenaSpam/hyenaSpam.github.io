@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hyenaspam.helloyeen",
+    "sha256_cert_fingerprints":
+    ["0A:0C:FA:78:F7:3E:0C:A2:A8:C5:1F:7E:B2:33:A3:52:13:8C:77:E4:4F:71:B1:81:11:21:DD:F9:26:B0:2E:FD"]
+  }
+}]
