@@ -6,10 +6,10 @@
 		"locations": [ 
 			"Chad", "Central African Republic", "South Sudan", "Ethiopia", "Kenya", "Tanzania", "Botswana", "Angola", "Namibia", "South Africa"
 		],
+		"link": "http://animalia.bio/spotted-hyena",
 		"descr": "The King of Hyenas",
 		"img": "https://www.shadowsofafrica.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/s/p/spotted_hyena.jpg",
-		"img_shrt":"www.shadowsofafrica.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/s/p/spotted_hyena.jpg",
-		"link": "http://animalia.bio/spotted-hyena"
+		"img_shrt":"www.shadowsofafrica.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/s/p/spotted_hyena.jpg"
 		},
 
 		{
@@ -19,9 +19,9 @@
 			"Bangladesh", "Bhutan", "Cambodia", "China", "India", "Laos", "Malaysia", "Myanmar", "Nepal", "Thailand", "Viet Nam"
 		],
 		"descr": "Angsty Rocker Hyena",
+		"link": "http://animalia.bio/striped-hyena",
 		"img": "https://i.pinimg.com/originals/d3/fa/f0/d3faf02a34d7a63297c63d8d433291a0.jpg",
-		"img_shrt":"i.pinimg.com/originals/d3/fa/f0/d3faf02a34d7a63297c63d8d433291a0.jpg",
-		"link": "http://animalia.bio/striped-hyena"
+		"img_shrt":"i.pinimg.com/originals/d3/fa/f0/d3faf02a34d7a63297c63d8d433291a0.jpg"
 		},
 
 		{
@@ -31,9 +31,9 @@
 			"Angola", "Botswana", "Namibia", "South Africa", "Zimbabwe"
 		],
 		"descr": "Wet Dog Hyena",
+		"link": "http://animalia.bio/brown-hyena",
 		"img": "https://i.pinimg.com/originals/66/3b/a8/663ba848928d7f7880fab85bf7219007.jpg",
-		"img_shrt":"i.pinimg.com/originals/66/3b/a8/663ba848928d7f7880fab85bf7219007.jpg",
-		"link": "http://animalia.bio/brown-hyena"
+		"img_shrt":"i.pinimg.com/originals/66/3b/a8/663ba848928d7f7880fab85bf7219007.jpg"
 		},
 
 		{
@@ -43,9 +43,9 @@
 			"Zambia", "Angola", "Mozambique", "Uganda", "Somalia", "Tanzania", "Ethiopia", "Sudan", "Egypt"
 		],
 		"descr": "...probably just a striped fox",
+		"link": "https://en.wikipedia.org/wiki/Aardwolf",
 		"img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Proteles_cristatus1.jpg",
-		"img_shrt":"upload.wikimedia.org/wikipedia/commons/0/0b/Proteles_cristatus1.jpg",
-		"link": "https://en.wikipedia.org/wiki/Aardwolf"
+		"img_shrt":"upload.wikimedia.org/wikipedia/commons/0/0b/Proteles_cristatus1.jpg"
 		}
 	]
 }
